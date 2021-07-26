@@ -1,7 +1,8 @@
 <template>
-  <Tutorial/>
+  <Map/>
 </template>
 
 <script>
 export default {}
 </script>
+
